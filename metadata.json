@@ -1,0 +1,9 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "A futuristic holographic AI assistant inspired by Jarvis, featuring voice interaction, weather tracking, camera AI, project assistance, and AI image generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
